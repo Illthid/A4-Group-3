@@ -1,2 +1,5 @@
 # A4-Group Dark Side of Kittens 
-david barnette barnettedavid@gmail.com
+Lead- david barnette barnettedavid@gmail.com
+Researcher-jessica
+Designer-kelly
+developer-
