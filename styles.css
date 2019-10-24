@@ -1,0 +1,79 @@
+/*Styles for Dark Kittens*/
+
+* {
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+header {
+    height:200px;
+    background: yellow;
+}
+
+nav {
+    background:red;
+    height:50px;
+    line-height:50px;
+}
+
+
+h1 {
+    font-family: 'Staatliches', cursive;
+    font-weight:3.5em;
+}
+
+nav ul {
+    width:1000px;
+    margin:0 auto;
+}
+
+nav li {
+    float:left;
+    width:20%;
+    text-align:center;
+    list-style-type:none;
+}
+
+
+#wrapper {
+    width:940px;
+    margin:20px auto;
+}
+
+#banner {
+    height:300px;
+    background:beige;
+    
+}
+
+main {
+    background:tan;
+    height:300px;
+    float:left;
+    width:400px;
+}
+
+p {
+    padding:20px;
+}
+
+aside {
+    background:#ccc;
+    height:300px;
+    float:right;
+    width:400px
+}
+
+footer {
+    height:50px;
+    background:pink;
+    clear:both;
+    line-height:50px;
+}
+
+footer li {
+    margin-right:30px;
+    float:left;
+    list-style-type:none;
+}
