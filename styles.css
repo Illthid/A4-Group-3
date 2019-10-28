@@ -6,9 +6,13 @@
     box-sizing:border-box;
 }
 
+body{
+    background:lightblue;
+}
+
 header {
     height:200px;
-    background: yellow;
+    background: beige;
 }
 
 nav {
@@ -21,6 +25,7 @@ nav {
 h1 {
     font-family: 'Staatliches', cursive;
     font-weight:3.5em;
+    text-align:center;
 }
 
 nav ul {
@@ -41,39 +46,63 @@ nav li {
     margin:20px auto;
 }
 
+#cute {
+    height:200px;
+    width:960px;
+    object-fit:cover;
+}
+
+img {
+    height:auto;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#destroy {
+    height:500px;
+}
+
+#scratch {
+    width:400px;
+}
+
 #banner {
     height:300px;
-    background:beige;
     
 }
 
+#left {
+    float:left;
+    padding:20px;
+    font-size:5em;
+}
+
+#right {
+    float:right;
+    padding:20px;
+    font-size:5em;
+}
+
+
 main {
-    background:tan;
     height:300px;
     float:left;
-    width:400px;
+    width:450px;
+}
+
+aside {
+    height:300px;
+    float:right;
+    width:450px
 }
 
 p {
     padding:20px;
-}
-
-aside {
-    background:#ccc;
-    height:300px;
-    float:right;
-    width:400px
-}
-
-footer {
-    height:50px;
-    background:pink;
-    clear:both;
-    line-height:50px;
-}
-
-footer li {
     margin-right:30px;
-    float:left;
-    list-style-type:none;
+    font-family: "Times New Roman", Times, serif;
 }
+
+
+
+
