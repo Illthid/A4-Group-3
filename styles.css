@@ -3,7 +3,8 @@
 * {
     padding:0;
     margin:0;
-    box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+            box-sizing:border-box;
 }
 
 body{
@@ -49,7 +50,8 @@ nav li {
 #cute {
     height:200px;
     width:960px;
-    object-fit:cover;
+    -o-object-fit:cover;
+       object-fit:cover;
 }
 
 img {
@@ -102,7 +104,3 @@ p {
     margin-right:30px;
     font-family: "Times New Roman", Times, serif;
 }
-
-
-
-
