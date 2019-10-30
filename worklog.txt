@@ -1,7 +1,9 @@
 Kelly Eames 10/28/19 Shored up styling and added remaining photos to page (1 hour)
 Kelly Eames 10/24/19 Started html and css for page
 Kelly Eames 10/24/19 Completed wireframe for page 30min
+Mohamed Ali 10/24/19 helped Kelly Eames with html and css for page 30-40mmin.
 Jessica Sites 10/24/19 worked on searching for and writing content during class for an hour and a half. 
 Jessica Sites 10/29/19 worked on fixing image location and text size during class 30-40 min. 
 David Barnette 10/24/19 Got everyone working in repo (troubleshooting). 1.5hrs during class.
 David Barnette 10/29/19 Did some finishing touches on css and html in class then pushed from home 30min.
+Mohamed Ali 10/29/19 worked on the css code 30-40min.
