@@ -1,3 +1,4 @@
+ROLES: Kelly Eames: Designer, Mohamed Ali: Developer, Jessica Sites: Content, David Barnette: Lead 
 Kelly Eames 10/28/19 Shored up styling and added remaining photos to page (1 hour)
 Kelly Eames 10/24/19 Started html and css for page
 Kelly Eames 10/24/19 Completed wireframe for page 30min
